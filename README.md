@@ -1,6 +1,6 @@
-<img src="./img/toon-me-transparent-small.png" align="right" />
+<img src="./img/anime-me.webp" align="right" />
 
-[![Live](https://img.shields.io/badge/-Portfolio%20Website-312BD4.svg)](https://anthonymarmont.com/)
+[![Live](https://img.shields.io/badge/-Portfolio%20Website-312BD4.svg)](https://fydar.dev/)
 
 > <sub>[![RPGCore](https://img.shields.io/badge/📦-RPGCore-333333.svg)](https://github.com/Fydar/RPGCore)</sub>\
 <sup>_A toolkit for producing games and mechanics in C#._</sup>
