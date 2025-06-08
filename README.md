@@ -1,3 +1,5 @@
+[<img src="./img/banner.webp" />](https://fydar.dev/)
+
 <img src="./img/anime-me.webp" align="right" />
 
 [![Live](https://img.shields.io/badge/-Portfolio%20Website-312BD4.svg)](https://fydar.dev/)
@@ -17,5 +19,4 @@
 > <sub>[![Portfolio](https://img.shields.io/badge/📦-Portfolio-333333.svg)](https://github.com/Fydar/Portfolio)</sub>\
 <sup>_An **[ASP.NET Core](https://dotnet.microsoft.com/apps/aspnet)** application hosting my porfolio._</sup>
 
-<sup>_Check out more of my [projects here](https://github.com/Fydar?tab=repositories)._</sup>\
-![uwu](./img/uwu.png)
+<sup>_Check out more of my [projects here](https://github.com/Fydar?tab=repositories)._</sup>
