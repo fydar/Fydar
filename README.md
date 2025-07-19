@@ -1,7 +1,5 @@
 [<img src="./img/banner.webp" />](https://fydar.dev/)
 
-<img src="./img/anime-me.webp" align="right" />
-
 [![Live](https://img.shields.io/badge/-Portfolio%20Website-312BD4.svg)](https://fydar.dev/)
 
 > <sub>[![RPGCore](https://img.shields.io/badge/📦-RPGCore-333333.svg)](https://github.com/Fydar/RPGCore)</sub>\
